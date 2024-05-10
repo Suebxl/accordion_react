@@ -1,0 +1,20 @@
+#root {
+  max-width: 1440px;
+  margin: 0 ;
+  padding: 0;
+  color: hsl(292, 42%, 14%)
+
+}
+
+.container-card {
+  background-color: white;
+  border-radius: 18px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+}
+
+.title {
+ align-self: center;
+}
